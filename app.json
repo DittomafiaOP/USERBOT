@@ -3,7 +3,7 @@
     "logo": "https://te.legra.ph/file/bfd4abee19f36133df12d.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/PRADHAN474/OXY-Userbot2.0",
+    "repository": "https://github.com/DittomafiaOP/USERBOT",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
