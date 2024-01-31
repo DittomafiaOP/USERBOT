@@ -1,1 +1,1 @@
-worker: python3 -m Zaid
+worker: python your_main_script.py
