@@ -1,1 +1,1 @@
-worker: python your_main_script.py
+worker: python ditto.py
